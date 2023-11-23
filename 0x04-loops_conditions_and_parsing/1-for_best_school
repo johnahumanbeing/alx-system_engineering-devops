@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Here is a script that will be displaying Best School x10
+# This script is displaying "Best School" 10 times
 for i in {1..10}
 do
     echo "Best School"
