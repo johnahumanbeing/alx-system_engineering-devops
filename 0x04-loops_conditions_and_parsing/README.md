@@ -4,7 +4,6 @@
 
 | Task | File |
 | ---- | ---- |
-| 0. Create a SSH RSA key pair | [0-RSA_public_key.pub](./0-RSA_public_key.pub) |
 | 1. For Best School loop | [1-for_best_school](./1-for_best_school) |
 | 2. While Best School loop | [2-while_best_school](./2-while_best_school) |
 | 3. Until Best School loop | [3-until_best_school](./3-until_best_school) |
@@ -16,6 +15,4 @@
 | 9. To file, or not to file | [9-to_file_or_not_to_file](./9-to_file_or_not_to_file) |
 | 10. FizzBuzz | [10-fizzbuzz](./10-fizzbuzz) |
 | 11. Read and cut | [100-read_and_cut](./100-read_and_cut) |
-| 12. Tell the story of passwd | [101-tell_the_story_of_passwd](./101-tell_the_story_of_passwd) |
-| 13. Let's parse Apache logs | [102-lets_parse_apache_logs](./102-lets_parse_apache_logs) |
-| 14. Dig the data | [103-dig_the-data](./103-dig_the-data) |
+| 12. Tell the story of passwd | [101-tell_the_story_of_passwd](./101-tell_the_story_of_passwd) ||
