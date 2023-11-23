@@ -16,3 +16,5 @@
 | 10. FizzBuzz | [10-fizzbuzz](./10-fizzbuzz) |
 | 11. Read and cut | [100-read_and_cut](./100-read_and_cut) |
 | 12. Tell the story of passwd | [101-tell_the_story_of_passwd](./101-tell_the_story_of_passwd) ||
+| 13. Let's parse Apache logs | [102-lets_parse_apache_logs](./102-lets_parse_apache_logs) |
+| 14. Dig the data | [103-dig_the-data](./103-dig_the-data) |
