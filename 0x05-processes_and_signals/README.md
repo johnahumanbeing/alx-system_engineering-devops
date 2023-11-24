@@ -23,4 +23,3 @@
 | 8. Beheaded process | [8-beheaded_process](./8-beheaded_process) |
 | 9. Process and PID file | [100-process_and_pid_file](./100-process_and_pid_file) |
 | 10. Manage my process | [101-manage_my_process](./101-manage_my_process), [manage_my_process](./manage_my_process) |
-| 11. Zombie | [102-zombie.c](./102-zombie.c) |
