@@ -1,3 +1,6 @@
+# include modules stdlib/puppetlabs
+include "stdlib"
+
 # setting up client ssh config file so as to connect without typing a password
 
 file_line { 'Turn off passwd auth':
