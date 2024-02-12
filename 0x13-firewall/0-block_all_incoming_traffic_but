@@ -1,4 +1,4 @@
-#!/usr/bin/env/ bash
+#!/usr/bin/env bash
 # instaling ufw firewall
 
 sudo apt-get -y update
