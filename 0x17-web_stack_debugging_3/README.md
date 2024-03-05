@@ -3,10 +3,6 @@
 ## TODO
 Using strace, find out why Apache is returning a 500 error. Once you find the issue, fix it and then automate it using Puppet
 
-# Hints
-I.strace can attach to a current running process
-II.You can use <code>tmux<code> to run <code>strace<code> in one window and curl in another one
-
 ## Tasks
 
 | Task | File |
