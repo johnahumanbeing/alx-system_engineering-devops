@@ -19,3 +19,5 @@
 | 3. Add a route with query parameters | [3-app_server-nginx_config](./3-app_server-nginx_config) |
 | 4. Let's do this for your API | [4-app_server-nginx_config](./4-app_server-nginx_config) |
 | 5. Serve your AirBnB clone | [5-app_server-nginx_config](./5-app_server-nginx_config) |
+| 6. Deploy it! | [gunicorn.service](./gunicorn.service) |
+| 7. No service interruption | [4-reload_gunicorn_no_downtime](./4-reload_gunicorn_no_downtime) |
